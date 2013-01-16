@@ -1,0 +1,10 @@
+{
+  "name": "jquery.prompt",
+  "version": "1.0.0",
+  "dependencies":[
+    "grunt",
+    "grunt-contrib-watch",
+    "grunt-contrib-coffee",
+    "grunt-mocha"
+  ]
+}
