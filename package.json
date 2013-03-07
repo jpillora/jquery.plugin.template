@@ -1,10 +1,19 @@
 {
-  "name": "jquery.prompt",
-  "version": "1.0.0",
+  "title": "My Plugin",
+  "name": "jquery.my.plugin",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jaime Pillora",
+    "github": "jpillora"
+  },
+  "license": "MIT",
   "dependencies":[
-    "grunt",
+    "grunt-contrib-concat",
+    "grunt-contrib-jshint",
+    "grunt-contrib-uglify",
     "grunt-contrib-watch",
     "grunt-contrib-coffee",
+    "grunt-wrap",
     "grunt-mocha"
   ]
 }

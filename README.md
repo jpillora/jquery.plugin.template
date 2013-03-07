@@ -1,12 +1,14 @@
-jQuery Plugin
+My jQuery Plugin
 =====
-v0.0.1a
+v0.0.1
 
-*Note: These docs are a work in progress.*
+<!--- grunt-pkg-gen:version -->
+
+<!--- grunt-pkg-gen -->
 
 Summary
 ---
-A jQuery plugin for easy consumption of plugin APIs
+A jQuery plugin for ...
 
 Downloads
 ---
